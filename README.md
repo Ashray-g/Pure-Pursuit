@@ -6,4 +6,4 @@ Given a set of waypoints, the algorithm determines a curved path to follow throu
 
 This is applicable in autonomous control in events such as FRC.
 
-![Test](https://gifyu.com/image/P0FE)
+![Test](https://s9.gifyu.com/images/purePursuit.gif)
