@@ -5,10 +5,10 @@ public class Robot {
     private static double yVelocity = 0;
     private static double velocity = 0;
 
-    private static double angleDegrees = 40;
+    private static double angleDegrees = 0;
 
-    private static double x = 0;
-    private static double y = 0;
+    private static double x = 200;
+    private static double y = 280;
 
     public static double getAngleDegrees() {
         return angleDegrees;
